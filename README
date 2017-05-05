@@ -31,7 +31,7 @@ Omit --global to set the identity only in this repository.
 fatal: empty ident name (for <(null)>) not allowed
 
 Point@InnoVision-Point-LenovoS41 MINGW64 /e/Demos/testPushByGitBash (master)
-$ git config user.email "point_1024@163.com"
+$ git config user.email "point_xxx@163.com"
 
 Point@InnoVision-Point-LenovoS41 MINGW64 /e/Demos/testPushByGitBash (master)
 $ git config user.name "PointTang"
@@ -47,7 +47,7 @@ $ git remote add origin https://github.com/PointTang/testPushByGitBash.git
 
 Point@InnoVision-Point-LenovoS41 MINGW64 /e/Demos/testPushByGitBash (master)
 $ git push -u origin master
-Username for 'https://github.com': point_1024@163.com
+Username for 'https://github.com': point_xxx@163.com
 Counting objects: 3, done.
 Delta compression using up to 4 threads.
 Compressing objects: 100% (2/2), done.
